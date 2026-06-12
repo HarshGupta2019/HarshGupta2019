@@ -3,14 +3,30 @@
 
 Email Me 👉 ✉️ **harshgupta121119@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+🔭 I’m currently working on:
+JalRakshak - Water Leak Reporting System
+
+🌱 I’m currently learning:
+Java, Spring Boot, MySQL, React.js
+
+👯 I’m looking to collaborate on:
+Full Stack Web Development Projects
+
+🤔 I’m looking for help with:
+Backend Architecture & Deployment
+
+💬 Ask me about:
+Java, Spring Boot, Web Development
+
+📫 How to reach me:
+harshgupta121119@gmail.com
+
+😄 Pronouns:
+He/Him
+
+⚡ Fun fact:
+I love building real-world projects and learning new technologies.
 
 
 

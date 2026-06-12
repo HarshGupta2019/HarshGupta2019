@@ -28,7 +28,11 @@ He/Him
 ⚡ Fun fact:
 I love building real-world projects and learning new technologies.
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gupta-073161353?utm_source=share_via&utm_content=profile&utm_medium=member_android)

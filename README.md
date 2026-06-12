@@ -15,7 +15,10 @@ Email Me 👉 ✉️ **harshgupta121119@gmail.com** For Collaboration/Project or
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-gupta-073161353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@legendf2945) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgupta121119@gmail.com) 
 

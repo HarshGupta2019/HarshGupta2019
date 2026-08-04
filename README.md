@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Harsh Gupta
 **A passionate Full stack developer**
 
-Email Me 👉 ✉️ **harshgupta121119@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **121119harshgupta@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 🔭 I’m currently working on:

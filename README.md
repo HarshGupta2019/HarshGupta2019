@@ -20,7 +20,7 @@ Backend Architecture & Deployment
 Java, Spring Boot, Web Development
 
 📫 How to reach me:
-harshgupta121119@gmail.com
+121119harshgupta@gmail.com 
 
 😄 Pronouns:
 He/Him
